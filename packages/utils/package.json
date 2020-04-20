@@ -1,5 +1,5 @@
 {
-  "name": "@saber/utils",
+  "name": "@seko/utils",
   "version": "1.0.4-alpha.0",
   "description": "> TODO: description",
   "author": "doublejan <954464727@qq.com>",
@@ -30,5 +30,5 @@
   "dependencies": {
     "chalk": "^4.0.0"
   },
-  "gitHead": "fff6e6cf0494527a450499b1b5b2726d74869c82"
+  "gitHead": "2a12d003c313e9579812449b12c3109e85133162"
 }
