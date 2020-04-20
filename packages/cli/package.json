@@ -1,9 +1,9 @@
 {
-  "name": "@sako/cli",
+  "name": "@seako/cli",
   "version": "1.0.6-alpha.0",
   "description": "> TODO: description",
   "author": "doublejan <954464727@qq.com>",
-  "homepage": "https://github.com/DoubleJan/sako#readme",
+  "homepage": "https://github.com/DoubleJan/seako#readme",
   "license": "ISC",
   "bin": {
     "cli": "index.js"
@@ -21,13 +21,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DoubleJan/sako.git"
+    "url": "git+https://github.com/DoubleJan/seako.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/DoubleJan/sako/issues"
+    "url": "https://github.com/DoubleJan/seako/issues"
   },
   "gitHead": "04127e0df1a3e9b2b94c6ef70ecd9cda1d0ddaa3"
 }
