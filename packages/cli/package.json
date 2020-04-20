@@ -5,7 +5,9 @@
   "author": "doublejan <954464727@qq.com>",
   "homepage": "https://github.com/DoubleJan/saber#readme",
   "license": "ISC",
-  "main": "lib/cli.js",
+  "bin": {
+    "cli": "index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -14,7 +16,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npm.taobao.org/"
+    "registry": "http://registry.npm.org/"
   },
   "repository": {
     "type": "git",

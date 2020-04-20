@@ -1,7 +1,17 @@
 {
   "name": "saber",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "clean": "yarn workspaces run clean",
+    "bootstrap": "lerna bootstrap --hoist"
+  },
   "devDependencies": {
     "lerna": "^3.20.2"
+  },
+  "dependencies": {
+    "commander": "^5.0.0"
   }
 }
