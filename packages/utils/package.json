@@ -1,9 +1,9 @@
 {
-  "name": "@seko/utils",
+  "name": "@sako/utils",
   "version": "1.0.4-alpha.0",
   "description": "> TODO: description",
   "author": "doublejan <954464727@qq.com>",
-  "homepage": "https://github.com/DoubleJan/saber#readme",
+  "homepage": "https://github.com/DoubleJan/sako#readme",
   "license": "ISC",
   "main": "index.js",
   "directories": {
@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DoubleJan/saber.git"
+    "url": "git+https://github.com/DoubleJan/sako.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/DoubleJan/saber/issues"
+    "url": "https://github.com/DoubleJan/sako/issues"
   },
   "dependencies": {
     "chalk": "^4.0.0"

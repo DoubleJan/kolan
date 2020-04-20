@@ -1,9 +1,9 @@
 {
-  "name": "@seko/cli",
+  "name": "@sako/cli",
   "version": "1.0.4-alpha.0",
   "description": "> TODO: description",
   "author": "doublejan <954464727@qq.com>",
-  "homepage": "https://github.com/DoubleJan/saber#readme",
+  "homepage": "https://github.com/DoubleJan/sako#readme",
   "license": "ISC",
   "bin": {
     "cli": "index.js"
@@ -21,13 +21,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DoubleJan/saber.git"
+    "url": "git+https://github.com/DoubleJan/sako.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/DoubleJan/saber/issues"
+    "url": "https://github.com/DoubleJan/sako/issues"
   },
   "gitHead": "2a12d003c313e9579812449b12c3109e85133162"
 }
