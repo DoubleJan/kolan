@@ -1,3 +1,2 @@
-# `@seko/utils`
-
+# @sako/utils
 
