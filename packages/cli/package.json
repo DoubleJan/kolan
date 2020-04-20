@@ -1,6 +1,6 @@
 {
   "name": "@saber/cli",
-  "version": "1.0.2-alpha.0",
+  "version": "1.0.3-alpha.0",
   "description": "> TODO: description",
   "author": "doublejan <954464727@qq.com>",
   "homepage": "https://github.com/DoubleJan/saber#readme",
@@ -30,5 +30,4 @@
     "url": "https://github.com/DoubleJan/saber/issues"
   },
   "gitHead": "3fd215e80275309498f550b575b50ee327e5a994"
-  
 }
