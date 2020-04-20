@@ -1,5 +1,5 @@
 {
-  "name": "saber",
+  "name": "seko",
   "private": true,
   "workspaces": [
     "packages/*"
