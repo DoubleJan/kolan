@@ -16,7 +16,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "registry": "http://registry.npmjs.org/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -27,5 +28,7 @@
   },
   "bugs": {
     "url": "https://github.com/DoubleJan/saber/issues"
-  }
+  },
+  "gitHead": "3fd215e80275309498f550b575b50ee327e5a994"
+  
 }
