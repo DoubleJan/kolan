@@ -1,9 +1,9 @@
 {
-  "name": "@seako/utils",
+  "name": "@kolan/utils",
   "version": "1.0.8-alpha.0",
   "description": "> TODO: description",
   "author": "doublejan <954464727@qq.com>",
-  "homepage": "https://github.com/DoubleJan/seako#readme",
+  "homepage": "https://github.com/DoubleJan/kolan#readme",
   "license": "ISC",
   "main": "index.js",
   "directories": {
@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DoubleJan/seako.git"
+    "url": "git+https://github.com/DoubleJan/kolan.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/DoubleJan/seako/issues"
+    "url": "https://github.com/DoubleJan/kolan/issues"
   },
   "dependencies": {
     "chalk": "^4.0.0"
