@@ -28,7 +28,7 @@
     "url": "https://github.com/DoubleJan/kolan/issues"
   },
   "dependencies": {
-    "chalk": "^4.0.0"
+    
   },
   "gitHead": "93703346830a47e3ac6a5ce577d12725b640ffac"
 }

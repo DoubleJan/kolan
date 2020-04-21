@@ -6,7 +6,7 @@
   "homepage": "https://github.com/DoubleJan/kolan#readme",
   "license": "ISC",
   "bin": {
-    "cli": "index.js"
+    "kolan": "cli.js"
   },
   "directories": {
     "lib": "lib",
@@ -28,6 +28,10 @@
   },
   "bugs": {
     "url": "https://github.com/DoubleJan/kolan/issues"
+  },
+  "dependencies": {
+    "@kolan/utils": "^1.0.9-alpha.0",
+    "commander": "^5.0.0"
   },
   "gitHead": "93703346830a47e3ac6a5ce577d12725b640ffac"
 }

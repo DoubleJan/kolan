@@ -4,12 +4,18 @@
   "workspaces": [
     "packages/*"
   ],
+  "bin": {
+    "kolan": "./packages/cli/bin/cli.js"
+  },
   "scripts": {
+    "start": "node ./packages/cli/bin/cli"
   },
   "devDependencies": {
     "lerna": "^3.20.2"
   },
   "dependencies": {
-    "commander": "^5.0.0"
+    "commander": "^5.0.0",
+    "chalk": "^4.0.0",
+    "inquirer": "^7.1.0"
   }
 }
