@@ -6,7 +6,7 @@
   "homepage": "https://github.com/DoubleJan/kolan#readme",
   "license": "ISC",
   "bin": {
-    "kolan": "cli.js"
+    "kolan": "bin/cli.js"
   },
   "directories": {
     "lib": "lib",
