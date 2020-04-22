@@ -1,4 +1,4 @@
-#!%SystemRoot%\\nodejs node
+#!/usr/bin/env node
 
 const { Command } = require('commander')
 const handler = require('../lib')
