@@ -1,4 +1,4 @@
-#!"C:\\Program Files\\nodejs\\" node
+#!%SystemRoot%\\nodejs node
 
 const { Command } = require('commander')
 const handler = require('../lib')
